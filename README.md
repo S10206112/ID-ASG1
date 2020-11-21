@@ -13,7 +13,7 @@ As a user type, I want to perform an action, so that I can achieve a goal.
 As a future employer, I want to be able to view all relevant information (about someone) easily, so that I can evaluate whether to hire them.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
-
+https://xd.adobe.com/view/632a113a-99bf-44a4-8972-0553d834fbd4-3679/
 
 # Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
@@ -46,7 +46,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 # Credits
 # Content
-The text for section Y was copied from the Wikipedia article Z
+The text used is from lorem ipsum
 # Media
 The photos used in this site were obtained from ...
 # Acknowledgements
