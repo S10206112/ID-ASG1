@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(207, 167, 167);
+  }
+h1{
+    background-color: Black;
+    color: White;
+
+}  
+h3{
+    background-color: Black;
+    color: cyan;
+}
+p1{
+    border-color: Black;
+}
