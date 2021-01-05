@@ -2,6 +2,7 @@
 # My Portfolio Website
 This project is for [ID] Interactive Development ASG1. The website made using this project will be used as a personal online portfolio for others to view.
 
+Link to working website : https://s10206112.github.io/ID-ASG1/
 
 
 # Design Process
@@ -46,7 +47,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 # Credits
 # Content
-The text used is from lorem ipsum
+The tex
 # Media
 The photos used in this site were obtained from lorem picsum as well as some of my school projects.
 # Acknowledgements
